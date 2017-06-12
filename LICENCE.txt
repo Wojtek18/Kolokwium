@@ -1,0 +1,9 @@
+Licencja MIT
+
+Copyright (c) <rok><posiadacz praw autorskich>
+
+Niniejszym gwarantuje siê, bez op³at, ¿e ka¿da osoba, która wejdzie w posiadanie kopii tego oprogramowania i zwi¹zanych z nim plików dokumentacji (dalej „Oprogramowanie”) mo¿e wprowadzaæ do obrotu Oprogramowanie bez ¿adnych ograniczeñ, w tym bez ograniczeñ prawa do u¿ytkowania, kopiowania, modyfikowania, ³¹czenia, publikowania, dystrybuowania, sublicencjonowania i/lub sprzeda¿y kopii Oprogramowania a tak¿e zezwalania osobie, której Oprogramowanie zosta³o dostarczone czynienia tego samego, z zastrze¿eniem nastêpuj¹cych warunków:
+
+Powy¿sza nota zastrzegaj¹ca prawa autorskie oraz niniejsza nota zezwalaj¹ca musz¹ zostaæ w³¹czone do wszystkich kopii lub istotnych czêœci Oprogramowania.
+
+Oprogramowanie jest dostarczone takim, jakie jest, bez jakiejkolwiek gwarancji, wyraŸnej lub dorozumianej, nie wy³¹czaj¹c gwarancji przydatnoœci handlowej lub przydatnoœci do okreœlonych celów a tak¿e braku wad prawnych. W ¿adnym przypadku twórca lub posiadacz praw autorskich nie mo¿e ponosiæ odpowiedzialnoœci z tytu³u roszczeñ lub wyrz¹dzonej szkody a tak¿e ¿adnej innej odpowiedzialnoœci czy to wynikaj¹cej z umowy, deliktu, czy jakiejkolwiek innej podstawy powsta³ej w zwi¹zku z oprogramowaniem lub u¿ytkowaniem go lub wprowadzaniem go do obrotu.

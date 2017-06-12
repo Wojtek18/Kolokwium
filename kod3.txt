@@ -34,3 +34,11 @@ margin-left:15px;
 width:350px;
 border-right:1px solid #B0B0B0;
 }
+#zmiana{
+font: 8pt tahoma;
+color:black;
+align:justify;
+margin-left:15px;
+width:350px;
+border-right:1px solid #B0B0B0;
+}

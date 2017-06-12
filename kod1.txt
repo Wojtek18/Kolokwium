@@ -14,6 +14,8 @@
   14:     int p_kola(pi * (r * r));
   15:     cout << "Pole wynosi: " << p_kola;
   16:     getch();
+	printf("zmiana");
   17:     return 0;
+
   18: }
   19:     

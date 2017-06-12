@@ -20,6 +20,7 @@
         <article>
             <header>
                 <h1>Tytu³ artyku³u</h1>
+		<h2>Zmiana</h2>
             </header>
             <section id="article-content">
                 <p>Tutaj w³aœciwa treœæ artyku³u...</p>
